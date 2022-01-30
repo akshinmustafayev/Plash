@@ -20,7 +20,7 @@
 Vality - is a PowerShell module for automation tasks.
 
 ### Functions
-- VASendEmail - Sends email to the destination
+- [VASendEmail](Documentation/VASendEmail.md) - Sends email to the destination
 - VANewEmailTemplate - Creates new email template
 - VANewEmailTemplateLogos - This is an additional function which must be used if _$VAEmailTemplateShowCompanyLogo_ is _$true_
 - VANewEmailTemplateTable - Create new table for the Email template
